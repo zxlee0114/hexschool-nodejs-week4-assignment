@@ -4,15 +4,7 @@
 
 - 使用 Node.js 原生 HTTP 模組建立 API 伺服器
 - 使用 TypeORM 操作 PostgreSQL 資料庫
-- 支援部落格文章的 CRUD 操作
-
-## API
-
-- GET /posts - 取得所有文章
-- GET /posts/:id - 取得單一文章
-- POST /posts - 新增文章
-- PUT /posts/:id - 更新文章
-- DELETE /posts/:id - 刪除文章
+- 支援 API CRUD 操作
 
 ## 開發指令
 
